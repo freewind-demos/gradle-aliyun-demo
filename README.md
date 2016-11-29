@@ -10,3 +10,8 @@ Run tests:
 ```
 
 It should be fast in China.
+
+Note
+----
+
+Use `--debug` to show more log to see if it's really use aliyun.
